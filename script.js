@@ -12,4 +12,4 @@ class SlotCl {
   }
 }
 
-const levelOne = new SlotCl(10);
+const levelOne = new SlotCl(20);
